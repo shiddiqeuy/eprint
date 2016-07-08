@@ -17,6 +17,13 @@ There also several features in this application :
 
 - Responsive Design for PC , Tablet ( iPad ) dan Mobile Phone ( iphone android ) using Bootrap js as a front end 
 
+# Flowchart : 
+![alt tag](http://i.imgur.com/Ic8q98F.png)
 
+# Use Case :
+![alt tag](http://i.imgur.com/MFnbDJP.png)
+
+
+# Screenshot
 ![alt tag](http://67.media.tumblr.com/6595c89fb4c992f68cf70136fd06d77c/tumblr_o9p54ugT8G1qgyqeco1_500.jpg)
 

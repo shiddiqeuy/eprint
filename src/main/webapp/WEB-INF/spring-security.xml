@@ -25,15 +25,7 @@
 	<authentication-manager>
 		<authentication-provider>
 			<user-service>
-				<user name="suwito" password="123456" authorities="ROLE_USER" />
-			
-				<user name="shiddiq" password="123456" authorities="ROLE_USER" />
-		
-				<user name="admin" password="123456" authorities="ROLE_USER" />
-		
-				<user name="clienta" password="123456" authorities="ROLE_USER" />
-				
-				<user name="clientb" password="123456" authorities="ROLE_USER" />
+				<user name="username" password="password" authorities="ROLE_USER" />
 			</user-service>
 		</authentication-provider>
 	</authentication-manager>

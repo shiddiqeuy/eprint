@@ -1,6 +1,6 @@
 # eprint
 
-![alt tag](http://docs.spring.io/autorepo/docs/spring/3.1.1.RELEASE/spring-framework-reference/htmlsingle/images/pdf-logo.png)
+![alt tag](https://spring.io/img/spring-by-pivotal.png)
 
 e-print or electical reporting  Maklon Printing is an Application for Stocking Management in Nutrifood 
 
